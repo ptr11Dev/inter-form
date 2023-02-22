@@ -24,7 +24,6 @@ const FormTwo = () => {
   };
 
   const handleAdditionalValidation = (field) => {
-    console.log("field", field);
     if (field === "serverPath") {
       const serverPathRegex = /^[0-9a-zA-Z/]+$/;
       const isServerPathMatch = serverPathRegex.test(formValues.serverPath);
