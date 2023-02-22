@@ -9,7 +9,7 @@ const FormTwo = () => {
     accountType: "Advanced",
     userName: "",
     password: "",
-    serverAddresss: "",
+    serverAddress: "",
     serverPath: "",
     port: "",
     ssl: false,
@@ -48,6 +48,7 @@ const FormTwo = () => {
       password: formValues.password,
     };
     if (formValues.serverAddress !== "") {
+      console.log("?");
       handleAdditionalValidation("serverAddress");
       formData.serverAddress = formValues.serverAddress;
     }
