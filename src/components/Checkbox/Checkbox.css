@@ -1,0 +1,13 @@
+.lastLineContainer {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.checkboxContainer {
+    display: flex;
+    margin: 10px 0;
+    font-size: 13px;
+    justify-content: center;
+    width: 7em;
+}

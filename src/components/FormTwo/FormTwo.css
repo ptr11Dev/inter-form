@@ -1,0 +1,15 @@
+.formContainer {
+    display:flex;
+    flex-direction: column;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    align-items: center;
+    min-height: 300px;
+}
+
+.button {
+    margin-top: 10px;
+}
