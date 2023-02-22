@@ -1,0 +1,19 @@
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: left;
+}
+
+.buttonContainer{
+    margin: 30px auto 0;
+}
+
+.formElement {
+    margin-top: 10px !important;
+}
