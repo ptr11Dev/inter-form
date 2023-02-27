@@ -1,0 +1,19 @@
+/* var(--variableName) */
+
+:root {
+    /* modes colors */
+    --backgroundColorLightMode: white;
+    --textColorDarkMode: black;
+    --backgroundColorDarkMode: black;
+    --textColorDarkMode: white;
+
+    /* colors */
+    --titleColor: #000080;
+    --titleStartColor: #1E90FF;
+    --buttonStandardColor: #1E90FF;
+    --buttonRevertColor: white;
+    --descriptionsText: grey;
+
+    /* fonts */
+    --defaultFont: arial, helvetica, sans-serif;
+  }

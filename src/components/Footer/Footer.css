@@ -1,0 +1,21 @@
+.footerContaier{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    flex-basis:10vh;
+    margin-top: 15px;
+}
+
+.button{
+    height: 30px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    border: none;
+    background-color: var(--buttonStandardColor);
+    color: var(--buttonRevertColor);
+}
+
+.button:last-of-type{
+    background-color: var(--buttonRevertColor);
+    color: var(--buttonStandardColor);
+}

@@ -1,0 +1,5 @@
+.pointsListContainer{
+    list-style-type: none;
+    overflow-y: scroll;
+    flex-basis: 75vh;
+}

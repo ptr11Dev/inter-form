@@ -1,0 +1,22 @@
+@import '../../variables.css';
+
+.headerContainer{
+    text-align: center;
+    width: 80%;
+    margin: 30px 0;
+    flex-basis:15vh;
+}
+
+.headerContainer__title{
+    color: var(--titleColor);
+}
+
+.firstWord{
+    color: var(--titleStartColor);
+}
+
+.headerContainer__subtitle{
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.1;
+}

@@ -1,0 +1,54 @@
+{
+  "points": [
+    {
+      "id": 0,
+      "title": "Point One",
+      "description": "A short description"
+    },
+    {
+      "id": 1,
+      "title": "Point Two",
+      "description": "A longer description that contains more information"
+    },
+    {
+      "id": 2,
+      "title": "Point Three",
+      "description": "A very short description"
+    },
+    {
+      "id": 3,
+      "title": "Point Four",
+      "description": "A very very very very very very very very very very very very very very very very very very very long description"
+    },
+    {
+      "id": 4,
+      "title": "Point Five",
+      "description": "A medium length description that is neither too long nor too short"
+    },
+    {
+      "id": 5,
+      "title": "Point Six",
+      "description": "A very short description"
+    },
+    {
+      "id": 6,
+      "title": "Point Seven",
+      "description": "A long description that contains a lot of information and may span multiple lines"
+    },
+    {
+      "id": 7,
+      "title": "Point Eight",
+      "description": "A short description"
+    },
+    {
+      "id": 8,
+      "title": "Point Nine",
+      "description": "A very very very very very very very very very very very very very very very very very very very very long description"
+    },
+    {
+      "id": 9,
+      "title": "Point Ten",
+      "description": "A short description"
+    }
+  ]
+}
